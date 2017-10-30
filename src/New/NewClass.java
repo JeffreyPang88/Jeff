@@ -11,4 +11,9 @@ package New;
  */
 public class NewClass {
     
+    public void Bacon()
+    {
+        
+    }
+    
 }
