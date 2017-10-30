@@ -13,7 +13,7 @@ public class NewClass {
     
     public void Bacon()
     {
-        
+        System.out.println();
     }
     
 }
